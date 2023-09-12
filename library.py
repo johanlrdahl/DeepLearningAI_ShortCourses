@@ -9,6 +9,13 @@ openai.api_key  = os.getenv('OPENAI_API_KEY')
 openai.api_type = "azure"
 openai.api_base = "https://openai-experiment.openai.azure.com/"
 openai.api_version = "2023-03-15-preview"
+chat_deployment = "johan-dahl-test"
+embedding_deployment = "text-embedding-ada-002"
+var = 4
+is_azure_openai = True
+
+def say_hi():
+    print("hi")
 
 
 def get_completion(prompt, engine="gpt-3.5-turbo", temperature=0):
