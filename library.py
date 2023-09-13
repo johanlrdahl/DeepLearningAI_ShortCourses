@@ -11,8 +11,8 @@ openai.api_base = "https://openai-experiment.openai.azure.com/"
 openai.api_version = "2023-03-15-preview"
 chat_deployment = "johan-dahl-test"
 embedding_deployment = "text-embedding-ada-002"
-var = 4
 is_azure_openai = True
+is_llama_cpp = True
 
 def say_hi():
     print("hi")
@@ -47,7 +47,7 @@ def get_completion_from_messages(messages, engine="gpt-3.5-turbo", temperature=0
     )
     return response.choices[0].message["content"]
 
-
+"""
 def collect_messages(_):
     prompt = inp.value_input
     inp.value = ''
@@ -60,3 +60,4 @@ def collect_messages(_):
         pn.Row('Assistant:', pn.pane.Markdown(response, width=600, style={'background-color': '#F6F6F6'})))
  
     return pn.Column(*panels)
+    """

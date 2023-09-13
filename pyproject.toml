@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "deeplearningai-shortcourses"
+version = "0.1.0"
+description = ""
+authors = ["CogniteJohan <johan.dahl@cognite.com>"]
+readme = "README.md"
+packages = [{include = "deeplearningai_shortcourses"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+llama-cpp-python = "^0.2.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
