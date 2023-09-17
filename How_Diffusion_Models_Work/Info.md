@@ -1,4 +1,4 @@
-https://learn.deeplearning.ai/finetuning-large-language-models/lesson/1/introduction
+https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction
 
 Presenters: Sharon Zhou
 
