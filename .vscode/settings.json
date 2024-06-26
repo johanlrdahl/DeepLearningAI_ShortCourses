@@ -1,8 +1,4 @@
 {
-    "cSpell.words": [
-        "dotenv",
-        "johan",
-        "langchain",
-        "openai"
-    ]
+  "cSpell.words": ["dotenv", "johan", "langchain", "openai"],
+  "CodeGPT.apiKey": "CodeGPT Plus Beta"
 }

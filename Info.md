@@ -1,11 +1,9 @@
 It is not verified if all code runs on azure openai for these courses. Some are direct copies, some are partially modified to run on azure openai.
 
 ---
-<span style="color:red">
 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/advanced-retrieval-for-ai/lesson/1/introduction) <br>
 Presenters: Anton Troynikov (Chroma)<br>
 Code Downloaded: No
-</span>
 
 ---
 <span style="color:red">
@@ -31,6 +29,11 @@ Code Downloaded: Yes
 Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)<br>
 Presenters: Isa Fulford (Open AI), Andrew Ng<br>
 Code Downloaded: Yes
+
+---
+Course: [Building Your Own Database Agent](https://learn.deeplearning.ai/courses/building-your-own-database-agent/lesson/1/introduction)<br>
+Presenter: Adrian Gonzalez Sanchez (Microsoft)<br>
+Code Downloaded: No
 
 ---
 Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)<br>
