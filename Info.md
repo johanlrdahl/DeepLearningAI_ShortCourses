@@ -1,4 +1,4 @@
-It is not verified if all code runs on azure openai for these courses. Some are direct copies, some are partially modified to run on azure openai.
+> **_NOTE:_** It is not verified if all code runs on azure openai for these courses. Some are direct copies, some are partially modified to run on azure openai. 
 
 ---
 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/advanced-retrieval-for-ai/lesson/1/introduction) <br>
