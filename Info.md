@@ -6,11 +6,9 @@ Presenters: Anton Troynikov (Chroma)<br>
 Code Downloaded: No
 
 ---
-<span style="color:red">
 Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-testing-llmops/lesson/1/introduction)<br>
 Presenters: Rob Zuber (CircleCI)<br>
 Code Downloaded: No
-</span>
 
 ---
 <span style="color:red">
@@ -91,6 +89,11 @@ Course: [Pair Programming with a Large Language Model](https://learn.deeplearnin
 (Folder: Pair_Programming_with_LLM)<br>
 Presenters: Laurence Moroney (Google)<br>
 Code Downloaded: Yes
+
+---
+Course: [Prompt Compression and Query Optimization](https://learn.deeplearning.ai/courses/prompt-compression-and-query-optimization/lesson/1/introduction)
+Presenter: Richmond Alake (MongoDB)
+Code Downloaded: No
 
 ---
 Course: [Reinforcement Learning from Human Feedback](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback/lesson/1/introduction)
