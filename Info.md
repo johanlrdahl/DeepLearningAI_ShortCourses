@@ -2,13 +2,11 @@
 
 ---
 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/advanced-retrieval-for-ai/lesson/1/introduction) <br>
-Presenters: Anton Troynikov (Chroma)<br>
-Code Downloaded: No
+Presenters: Anton Troynikov (Chroma)
 
 ---
 Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-testing-llmops/lesson/1/introduction)<br>
-Presenters: Rob Zuber (CircleCI)<br>
-Code Downloaded: No
+Presenters: Rob Zuber (CircleCI)
 
 ---
 <span style="color:red">
@@ -18,41 +16,32 @@ Code Downloaded: No
 </span>
 
 ---
-Course: [Building Generative AI Applications with Gradio](https://learn.deeplearning.ai/huggingface-gradio/lesson/1/introduction)
-(Folder: Building_Gen_AI_Apps_with_Gradio)<br>
-Presenters: Apolinário Passos (Hugging Face)<br>
-Code Downloaded: Yes
+Course: [Building Generative AI Applications with Gradio](https://learn.deeplearning.ai/huggingface-gradio/lesson/1/introduction)<br>
+Presenters: Apolinário Passos (Hugging Face)
 
 ---
 Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)<br>
-Presenters: Isa Fulford (Open AI), Andrew Ng<br>
-Code Downloaded: Yes
+Presenters: Isa Fulford (Open AI), Andrew Ng
 
 ---
 Course: [Building Your Own Database Agent](https://learn.deeplearning.ai/courses/building-your-own-database-agent/lesson/1/introduction)<br>
-Presenter: Adrian Gonzalez Sanchez (Microsoft)<br>
-Code Downloaded: No
+Presenter: Adrian Gonzalez Sanchez (Microsoft)<
 
 ---
 Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)<br>
-Presenters: Isa Fulford (Open AI), Andrew Ng<br>
-Code Downloaded: Yes
+Presenters: Isa Fulford (Open AI), Andrew Ng<
 
 ---
-Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)
-(Folder: Evaluating_and_Debugging_GenAI)<br>
-Presenters: Carey Phelps (Weights & Biases)<br>
-Code Downloaded: Yes
+Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)<br>
+Presenters: Carey Phelps (Weights & Biases)
 
 ---
 Course: [Finetuning Large Language Models](https://learn.deeplearning.ai/finetuning-large-language-models/lesson/1/introduction)<br>
-Presenters: Sharon Zhou (Lamini)<br>
-Code Downloaded: Yes
+Presenters: Sharon Zhou (Lamini)
 
 ---
 Course: [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/1/introduction)<br>
-Presenters: Harrison Chase (LangChain)<br>
-Code Downloaded: Yes
+Presenters: Harrison Chase (LangChain)
 
 ---
 Course: [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel/lesson/1/introduction)<br>
@@ -91,13 +80,12 @@ Presenters: Laurence Moroney (Google)<br>
 Code Downloaded: Yes
 
 ---
-Course: [Prompt Compression and Query Optimization](https://learn.deeplearning.ai/courses/prompt-compression-and-query-optimization/lesson/1/introduction)
-Presenter: Richmond Alake (MongoDB)
-Code Downloaded: No
+Course: [Prompt Compression and Query Optimization](https://learn.deeplearning.ai/courses/prompt-compression-and-query-optimization/lesson/1/introduction)'<br>
+Presenter: Richmond Alake (MongoDB)<br>
+Code Downloaded: Yes
 
 ---
-Course: [Reinforcement Learning from Human Feedback](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback/lesson/1/introduction)
-(Folder: RLHF)<br>
+Course: [Reinforcement Learning from Human Feedback](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback/lesson/1/introduction)<br>
 Presenters: Nikita Namjoshi (Google)<br>
 Code Downloaded: No
 
