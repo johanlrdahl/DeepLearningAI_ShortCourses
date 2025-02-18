@@ -11,59 +11,54 @@ Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-t
 Presenters: Rob Zuber (CircleCI) OK
 
 ---
-<span style="color:red">
-Course: [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js/lesson/1/introduction)<br>
-Presenters:<br>
+<!-- Current Course -->
+Course: [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js/lesson/1/introduction)  
+Presenters: Jacob Lee (LangChain)
 Code Downloaded: No
-</span>
 
 ---
-Course: [Building Generative AI Applications with Gradio](https://learn.deeplearning.ai/huggingface-gradio/lesson/1/introduction)<br>
+Course: [Building Generative AI Applications with Gradio](https://learn.deeplearning.ai/huggingface-gradio/lesson/1/introduction)  
 Presenters: Apolinário Passos (Hugging Face) OK
 
 ---
-Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)<br>
+Course: [Building Systems with the ChatGPT API](https://learn.deeplearning.ai/chatgpt-building-system/lesson/1/introduction)  
 Presenters: Isa Fulford (Open AI), Andrew Ng OK
 
 ---
-Course: [Building Your Own Database Agent](https://learn.deeplearning.ai/courses/building-your-own-database-agent/lesson/1/introduction)<br>
+Course: [Building Your Own Database Agent](https://learn.deeplearning.ai/courses/building-your-own-database-agent/lesson/1/introduction)  
 Presenter: Adrian Gonzalez Sanchez (Microsoft) OK
 
 ---
-Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)<br>
+Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)  
 Presenters: Isa Fulford (Open AI), Andrew Ng. OK
 
 ---
-Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)<br>
+Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)  
 Presenters: Carey Phelps (Weights & Biases) OK
 
 ---
-Course: [Finetuning Large Language Models](https://learn.deeplearning.ai/finetuning-large-language-models/lesson/1/introduction)<br>
+Course: [Finetuning Large Language Models](https://learn.deeplearning.ai/finetuning-large-language-models/lesson/1/introduction)  
 Presenters: Sharon Zhou (Lamini) OK
 
 ---
-Course: [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/1/introduction)<br>
+Course: [Functions, Tools and Agents with LangChain](https://learn.deeplearning.ai/functions-tools-agents-langchain/lesson/1/introduction)  
 Presenters: Harrison Chase (LangChain) OK
 
 ---
-Course: [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel/lesson/1/introduction)<br>
-Presenters: John Maeda (Microsoft)<br>
-Code Downloaded: Yes
+Course: [How Business Thinkers Can Start Building AI Plugins With Semantic Kernel](https://learn.deeplearning.ai/microsoft-semantic-kernel/lesson/1/introduction)  
+Presenters: John Maeda (Microsoft) OK
 
 ---
 Course: [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)<br>
-Presenters: Sharon Zhou<br>
-Code Downloaded: Yes<br>
+Presenters: Sharon Zhou OK  
 
 ---
 Course: [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction)<br>
 Presenters: Jay Alammar, Maarten Grootendorst OK
 
-
 ---
 Course: [LangChain: Chat with Your Data](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction)<br>
-Presenters: Harrison Chase (LangChain)<br>
-Code Downloaded: Yes
+Presenters: Harrison Chase (LangChain) OK  
 
 ---
 Course: [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)<br>
@@ -76,7 +71,7 @@ Presenters: Jay Alammar, Luis Serrano (Cohere)<br>
 Code Downloaded: Yes
 
 ---
-Course: [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)<br>
+Course: [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)  
 Presenters: Erwin Huizenga (Google) OK
 
 ---
