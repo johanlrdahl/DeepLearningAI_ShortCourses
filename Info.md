@@ -13,7 +13,7 @@ Presenters: Rob Zuber (CircleCI) OK
 ---
 <!-- Current Course -->
 Course: [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js/lesson/1/introduction)  
-Presenters: Jacob Lee (LangChain)
+Presenters: Jacob Lee (LangChain)  
 Code Downloaded: No
 
 ---
@@ -49,19 +49,19 @@ Course: [How Business Thinkers Can Start Building AI Plugins With Semantic Kerne
 Presenters: John Maeda (Microsoft) OK
 
 ---
-Course: [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)<br>
+Course: [How Diffusion Models Work](https://learn.deeplearning.ai/diffusion-models/lesson/1/introduction)  
 Presenters: Sharon Zhou OK  
 
 ---
-Course: [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction)<br>
+Course: [How Transformer LLMs Work](https://learn.deeplearning.ai/courses/how-transformer-llms-work/lesson/nfshb/introduction)  
 Presenters: Jay Alammar, Maarten Grootendorst OK
 
 ---
-Course: [LangChain: Chat with Your Data](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction)<br>
+Course: [LangChain: Chat with Your Data](https://learn.deeplearning.ai/langchain-chat-with-your-data/lesson/1/introduction)  
 Presenters: Harrison Chase (LangChain) OK  
 
 ---
-Course: [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)<br>
+Course: [LangChain for LLM Application Development](https://learn.deeplearning.ai/langchain/lesson/1/introduction)  
 Presenters: Harrison Chase (LangChain)<br>
 Code Downloaded: Yes
 
