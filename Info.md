@@ -7,7 +7,6 @@ Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/ad
 Presenters: Anton Troynikov (Chroma)  
 
 ---
-<!-- Current Course -->
 Course: [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction)  
 Presenter: Josh Starmer
 
@@ -34,6 +33,11 @@ Presenter: Adrian Gonzalez Sanchez (Microsoft)
 ---
 Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/chatgpt-prompt-eng/lesson/1/introduction)  
 Presenters: Isa Fulford (Open AI), Andrew Ng.  
+
+---
+<!-- Current Course -->
+Course: [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/lesson/sqkza/introduction)  
+Presenters: John Gilhuly and Aman Khan (Arize)
 
 ---
 Course: [Evaluating and Debugging Generative AI](https://learn.deeplearning.ai/evaluating-debugging-generative-ai/lesson/1/introduction)  
