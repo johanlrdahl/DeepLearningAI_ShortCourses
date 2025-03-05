@@ -8,7 +8,7 @@ Presenters: Anton Troynikov (Chroma)
 
 ---
 Course: [Attention in Transformers: Concepts and Code in PyTorch](https://learn.deeplearning.ai/courses/attention-in-transformers-concepts-and-code-in-pytorch/lesson/han2t/introduction)  
-Presenter: Josh Starmer
+Presenter: Josh Starmer (StatQuest, BAM...)
 
 ---
 Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-testing-llmops/lesson/1/introduction)  
@@ -35,7 +35,6 @@ Course: [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.a
 Presenters: Isa Fulford (Open AI), Andrew Ng.  
 
 ---
-<!-- Current Course -->
 Course: [Evaluating AI Agents](https://learn.deeplearning.ai/courses/evaluating-ai-agents/lesson/sqkza/introduction)  
 Presenters: John Gilhuly and Aman Khan (Arize)
 
@@ -91,6 +90,11 @@ Presenter: Richmond Alake (MongoDB)
 ---
 Course: [Reinforcement Learning from Human Feedback](https://learn.deeplearning.ai/reinforcement-learning-from-human-feedback/lesson/1/introduction)  
 Presenters: Nikita Namjoshi (Google)  
+
+---
+<!-- Current Course -->
+Course: [Serverlessf Agentic Workflows with Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-agentic-workflows-with-amazon-bedrock/lesson/aemxe/introduction)  
+Presenter: Mike Chambers (AWS)
 
 ---
 Course: [Understanding and Applying Text Embeddings](https://learn.deeplearning.ai/google-cloud-vertex-ai/lesson/1/introduction)  
