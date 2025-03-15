@@ -79,6 +79,11 @@ Course: [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)
 Presenters: Erwin Huizenga (Google)  
 
 ---
+<!-- Current Course -->
+Course: [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction)  
+Presenters: Joao Moura (CrewAI) 
+
+---
 Course: [Pair Programming with a Large Language Model](https://learn.deeplearning.ai/pair-programming-llm/lesson/1/introduction)
 (Folder: Pair_Programming_with_LLM)  
 Presenters: Laurence Moroney (Google)  
@@ -92,7 +97,6 @@ Course: [Reinforcement Learning from Human Feedback](https://learn.deeplearning.
 Presenters: Nikita Namjoshi (Google)  
 
 ---
-<!-- Current Course -->
 Course: [Serverlessf Agentic Workflows with Amazon Bedrock](https://learn.deeplearning.ai/courses/serverless-agentic-workflows-with-amazon-bedrock/lesson/aemxe/introduction)  
 Presenter: Mike Chambers (AWS)
 
