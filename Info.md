@@ -80,6 +80,10 @@ Presenters: Erwin Huizenga (Google)
 
 ---
 <!-- Current Course -->
+Course: [MCP Build Rich Context AI Apps with Anthropic](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction)  
+Presenters: Elie Schoppik (Anthropic)
+
+---
 Course: [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction)  
 Presenters: Joao Moura (CrewAI) 
 
