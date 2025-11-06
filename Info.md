@@ -88,6 +88,10 @@ Course: [Multi AI Agent Systems with crewAI](https://learn.deeplearning.ai/cours
 Presenters: Joao Moura (CrewAI) 
 
 ---
+Course: [Orchestrating Workflows for GenAI Applications](https://learn.deeplearning.ai/courses/orchestrating-workflows-for-genai-applications/lesson/tw64g/introduction)  
+Presenters: Kenten Danas, Tamara Fingerlin (Astronomer) 
+
+---
 Course: [Pair Programming with a Large Language Model](https://learn.deeplearning.ai/pair-programming-llm/lesson/1/introduction)
 (Folder: Pair_Programming_with_LLM)  
 Presenters: Laurence Moroney (Google)  
