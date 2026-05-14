@@ -1,8 +1,16 @@
 # Information
 
-> **_NOTE:_** It is not verified if all code runs on azure openai for these courses. Some are direct copies, some are partially modified to run on azure openai.
+> **_NOTE 1:_** It is not verified if all code runs on azure openai or any other providerfor these courses. 
+Some are direct copies, some are partially modified to run on azure openai etc.
 
----
+> **_NOTE 2:_** If you want to download all folder and files on a remote server, create a notebook on the root and run 
+
+``` bash
+!tar chvfz notebook.tar.gz *
+```
+
+## List of Courses
+
 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/advanced-retrieval-for-ai/lesson/1/introduction)  
 Presenters: Anton Troynikov (Chroma)  
 
