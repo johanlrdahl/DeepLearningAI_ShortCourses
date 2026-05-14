@@ -11,6 +11,10 @@ Some are direct copies, some are partially modified to run on azure openai etc.
 
 ## List of Courses
 
+Course: [A2A Agent to Agent Protocol](https://learn.deeplearning.ai/courses/a2a-the-agent2agent-protocol/lesson/vtf72ap4/introduction)  
+Presenters: Holt Skinner, Ivan Nardini (Google). Sandi Besen (IBM) 
+
+---
 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/advanced-retrieval-for-ai/lesson/1/introduction)  
 Presenters: Anton Troynikov (Chroma)  
 
@@ -21,6 +25,10 @@ Presenter: Josh Starmer (StatQuest, BAM...)
 ---
 Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-testing-llmops/lesson/1/introduction)  
 Presenters: Rob Zuber (CircleCI)  
+
+---
+Course: [Build AI Apps with MCP Server: Working with Box Files and A2A](https://learn.deeplearning.ai/courses/build-ai-apps-with-mcp-server-working-with-box-files/lesson/hl2xjv/introduction)  
+Presenters: Ben Kus (box)  
 
 ---
 Course: [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js/lesson/1/introduction)  
