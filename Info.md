@@ -15,6 +15,10 @@ Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-t
 Presenters: Rob Zuber (CircleCI)  
 
 ---
+Course: [Build AI Apps with MCP Server: Working with Box Files](https://learn.deeplearning.ai/courses/build-ai-apps-with-mcp-server-working-with-box-files/lesson/hl2xjv/introduction)  
+Presenters: Ben Kus (Box)  
+
+---
 Course: [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js/lesson/1/introduction)  
 Presenters: Jacob Lee (LangChain)  
 
@@ -79,7 +83,6 @@ Course: [LLMOps](https://learn.deeplearning.ai/llmops/lesson/1/introduction)
 Presenters: Erwin Huizenga (Google)  
 
 ---
-<!-- Current Course -->
 Course: [MCP Build Rich Context AI Apps with Anthropic](https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/wwou5/introduction)  
 Presenters: Elie Schoppik (Anthropic)
 
