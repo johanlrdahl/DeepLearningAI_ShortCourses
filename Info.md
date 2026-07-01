@@ -1,6 +1,18 @@
 # Information
 
-> **_NOTE:_** It is not verified if all code runs on azure openai for these courses. Some are direct copies, some are partially modified to run on azure openai.
+> **_NOTE 1:_** It is not verified if all code runs on azure openai or any other providerfor these courses. 
+Some are direct copies, some are partially modified to run on azure openai etc.
+
+> **_NOTE 2:_** If you want to download all folder and files on a remote server, create a notebook on the root and run 
+
+``` bash
+!tar chvfz notebook.tar.gz *
+```
+
+## List of Courses
+
+Course: [A2A Agent to Agent Protocol](https://learn.deeplearning.ai/courses/a2a-the-agent2agent-protocol/lesson/vtf72ap4/introduction)  
+Presenters: Holt Skinner, Ivan Nardini (Google). Sandi Besen (IBM) 
 
 ---
 Course: [Advanced Retrieval for AI with Chroma](https://learn.deeplearning.ai/advanced-retrieval-for-ai/lesson/1/introduction)  
@@ -15,8 +27,10 @@ Course: [Automated Testing for LLMOps](https://learn.deeplearning.ai/automated-t
 Presenters: Rob Zuber (CircleCI)  
 
 ---
-Course: [Build AI Apps with MCP Server: Working with Box Files](https://learn.deeplearning.ai/courses/build-ai-apps-with-mcp-server-working-with-box-files/lesson/hl2xjv/introduction)  
+Course: [Build AI Apps with MCP Server: Working with Box Files and A2A](https://learn.deeplearning.ai/courses/build-ai-apps-with-mcp-server-working-with-box-files/lesson/hl2xjv/introduction)  
+Also listed as: Build AI Apps with MCP Server: Working with Box Files  
 Presenters: Ben Kus (Box)  
+(Folders: `Build_AI_Apps_with_MCP_Server`, `Build_AI_Apps_with_MCP_Servers_Box_Files`)
 
 ---
 Course: [Build LLM Apps with LangChain.js](https://learn.deeplearning.ai/build-llm-apps-with-langchain-js/lesson/1/introduction)  
